@@ -1,1 +1,2 @@
 # Power BI- Blinkit-Sales-report
+     This Power BI dashboard analyzes Blinkit's sales, customer behavior, and delivery performance using real-time data. It provides insights into sales trends, peak order times, delivery efficiency, and top-selling categories. Key findings include high order volumes in the evening, repeat customers driving revenue, and metro cities having faster deliveries. The analysis helps identify areas for business improvement and operational efficiency.
